@@ -134,3 +134,15 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Node modules
+backend/node_modules/
+
+# Environment variables
+backend/.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
