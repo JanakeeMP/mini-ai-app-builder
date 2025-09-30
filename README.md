@@ -85,7 +85,6 @@ Key Features:
 
 ## Project Structure
 
-    ```text
     mini-ai-app-builder/
     ├── backend/                     # Node.js/Express server
     │   ├── src/
@@ -119,11 +118,10 @@ Key Features:
     │
     ├── .gitignore                   # Ignore node_modules, .env, dist, etc.
     ├── README.md                    # Main project instructions
-    ```
 
 ## Additional Work/Ideas
 - **Enhancements**: Add AI-generated field validation, user authentication.
 
 For questions or contributions, open an issue on GitHub.
 
-© 2025 Your Name. Built for Internship Evaluation.
+© 2025 Janakee M Patabadige. Built for Internship Evaluation.
